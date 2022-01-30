@@ -17,12 +17,10 @@ But it's fine anyway.
   - but why
 - Something nr 3 but unordered
 
-  '''
-  print("Welcome")
-  
-  print("Goodbye")
-  
-  print("Hello")
-  '''
+'''
+print("Welcome")
+print("Goodbye")
+print("Hello")
+'''
   
 
