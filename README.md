@@ -10,7 +10,6 @@ But it's fine anyway.
 
 1. Something something number 1
 2. Something something number 2
-  1. whatever
 3. Something something number 3
 
 - Something nr 1 but unordered
