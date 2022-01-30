@@ -6,6 +6,12 @@ It's like writing an ~list~... I meant the **essay**
 
 But it's fine anyway.
 
+> Witam w mojej kuchni.
 
+1. Something something number 1
+2. Something something number 2
+3. Something something number 3
 
-> Witam w mojej kuchni
+- Something nr 1 but unordered
+- Something nr 2 but unordered
+- Something nr 3 but unordered
