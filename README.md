@@ -17,13 +17,13 @@ But it's fine anyway.
   - but why
 - Something nr 3 but unordered
 
-'''
+```
 print("Welcome")
 
 print("Goodbye")
 
 print("Hello")
-'''
+```
 
-Thats how 'code' in Markdown looks like.
+Thats how `code` in Markdown looks like.
 
