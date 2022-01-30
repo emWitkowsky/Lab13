@@ -27,3 +27,4 @@ But it's fine anyway.
 
 Thats how `code` in Markdown looks like.
 
+![This cat is beautiful!](https://github.com/emWitkowsky/Lab13/blob/main/Cat.jpg "Kot")
