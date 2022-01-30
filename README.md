@@ -9,8 +9,9 @@ But it's fine anyway.
 > Witam w mojej kuchni.
 
 1. Something something number 1
-2. Something something number 2
-3. Something something number 3
+2. Something something number 2 
+    1. Indented something
+4. Something something number 3
 
 - Something nr 1 but unordered
 - Something nr 2 but unordered
