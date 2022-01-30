@@ -24,5 +24,6 @@ print("Goodbye")
 
 print("Hello")
 '''
-  
+
+Thats how 'code' in Markdown looks like.
 
